@@ -1,7 +1,6 @@
 var name = "Joe"
 var height = "74"
 
-var name = "Susan"
 
 
 if (name === "Susan") {
